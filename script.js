@@ -12,9 +12,6 @@ var volume = 0.5;  //must be between 0.0 and 1.0
 var guessCounter = 0;
 var mistakes = 0;
 
-function getNumMistakes(){
-  return mistakes;
-}
 function startGame(){
   //initialize game variables
   clueHoldTime = 1000;
@@ -30,7 +27,6 @@ function startGame(){
 }
 
 function stopGame(){
-  // document.getElementById("strikes").innerHTML = "strikes: " + mistakes;
   gamePlaying = false;
   document.getElementById("startBtn").classList.remove("hidden");
   document.getElementById("stopBtn").classList.add("hidden");
