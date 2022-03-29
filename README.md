@@ -35,6 +35,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [X] Added a strike counter so player can see how many mistakes they've made
+- [X] After the player makes a mistake, the sequence that they did not successfully pass repeats again
 
 ## Video Walkthrough (GIF)
 
