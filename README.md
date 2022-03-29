@@ -61,6 +61,8 @@ https://stackoverflow.com/questions/40086680/how-to-make-the-html-renders-before
 	With a few more hours to spare, I would make it so that the player has to wait for an entire sequence to play before they can click on a button. After playing the game myself, I noticed that clicking on a button before a sequence is fully completed results in the immediate halt of the current sequence and a strike. I believe the experience on the user’s part would be greatly improved with this simple addition.
 	
 	To further enhance the user’s experience, I would add music that speeds up as the game progresses. Perhaps an audio track can loop and increase in tempo with every new sequence. This will amplify the player’s concentration and make them more likely to click on the buttons faster. Of course, I would not want this music to hinder the existing tones of the buttons when clicked.
+	
+	For more readability, I would divide the current script.js file into two separate files: one that holds all sound synthesis related variables, constants, and functions and another that holds code related to the mechanics of the game.
 
 
 ## Interview Recording URL Link
