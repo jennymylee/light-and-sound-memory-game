@@ -68,7 +68,7 @@ https://stackoverflow.com/questions/40086680/how-to-make-the-html-renders-before
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://uci.zoom.us/rec/play/jxFfI37eAd0C4oAXuO3i6CGNBrZfP7k7G3iALdu3654cW8sN9hr7KM6gbSHlEaxKAyr1ZgmwrqbkQC1s.BtH9igtHVs4Qvq0c?continueMode=true)
 
 
 ## License
